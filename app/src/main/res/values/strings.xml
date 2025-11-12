@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calculo_de_ventas</string>
+    <string name="Producto">Producto_en_venta</string>
+    <string name="Computador">Computador</string>
+    <string name="Consola">Consola De Juegos</string>
+    <string name="Precio">precio</string>
+    <string name="Descuento">Descuento</string>
+    <string name="Calcular">Calcular</string>
+    <string name="resta">Resta</string>
+    <string name="seleccion">Seleccion</string>
+    <string name="restultado">resultado</string>
+</resources>
